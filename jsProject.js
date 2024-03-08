@@ -26,7 +26,7 @@ addEventListener('DOMContentLoaded', function() {
         h1Text2.style.display = 'flex';
         gif1.style.display = 'none';
         gif2.style.display = 'block';
-        text.textContent = 'Самая-самая лучшая!!';
+        text.textContent = 'С праздником!!!';
     })
 
 }) // DOMContent
